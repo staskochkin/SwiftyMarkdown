@@ -5,7 +5,7 @@ s.summary          = "Converts Markdown to NSAttributed String"
 s.homepage         = "https://github.com/SimonFairbairn/SwiftyMarkdown"
 s.license          = 'MIT'
 s.author           = { "Simon Fairbairn" => "simon@voyagetravelapps.com" }
-s.source           = { :git => "https://github.com/SimonFairbairn/SwiftyMarkdown.git", :tag => s.version }
+s.source           = { :git => "https://github.com/staskochkin/SwiftyMarkdown.git", :branch => "master" }
 s.social_media_url = 'https://twitter.com/SimonFairbairn'
 
 s.ios.deployment_target = "11.0"
